@@ -36,3 +36,17 @@ specific companies in certain areas.
 2. From Google Drive: [link](https://drive.google.com/file/d/1eWgKtoQExzLzfy1dYm8T8LrHfvAGXVkj/view?usp=share_link)
 
 If you choose to download from Kaggle, the csv file should be renamed from 'row.csv'to 'data.csv, and be extracted to the same folder containing the source codes for this project.
+
+
+# Contributors
+1. Kenneth Odoh
+2. David Mbaya Luboya-Mushila
+3. Muskan Gupta
+4. Esuola Stephen Semiloore
+5. Emmanuel Oyetunji
+6. Hawal Alade
+7. Alonge Daniel
+8. Edunoh Inyeneobong Ita-Okon
+
+
+
