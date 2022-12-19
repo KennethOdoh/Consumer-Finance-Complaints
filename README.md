@@ -27,7 +27,12 @@ innovative ways of doing business that would be made possible by the insights ma
 
 # About the Dataset
 This dataset is real world complaints received about financial products and services. 
-The dataset was provided by the Consumer Financial Protection Bureau, and can be downloaded from Kaggle using this [link](https://www.kaggle.com/datasets/selener/consumer-complaint-database)
-
+The dataset was provided by the Consumer Financial Protection Bureau.
 Each complaint is related to a specific product. These complaints represent specific issues, and these occur at 
 specific companies in certain areas. 
+
+** Due to the large size of the dataset, we could not upload it directly here on GitHub. However, the dataset can be assessed in either of two ways: **
+1. From Kaggle: [link](https://www.kaggle.com/datasets/selener/consumer-complaint-database)
+2. From Google Drive: [link](https://drive.google.com/file/d/1eWgKtoQExzLzfy1dYm8T8LrHfvAGXVkj/view?usp=share_link)
+
+If you choose to download from Kaggle, the csv file should be renamed from 'row.csv'to 'data.csv, and be extracted to the same folder containing the source codes for this project.
